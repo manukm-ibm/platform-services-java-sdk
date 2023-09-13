@@ -1,3 +1,31 @@
+## [0.40.1](https://github.com/IBM/platform-services-java-sdk/compare/0.40.0...0.40.1) (2023-09-06)
+
+
+### Bug Fixes
+
+* bump dependencies to avoid CVE ([#209](https://github.com/IBM/platform-services-java-sdk/issues/209)) ([5a0be02](https://github.com/IBM/platform-services-java-sdk/commit/5a0be02be36cf5aa9eaea9712c10041d18437c93))
+
+# [0.40.0](https://github.com/IBM/platform-services-java-sdk/compare/0.39.1...0.40.0) (2023-09-05)
+
+
+### Features
+
+* **IAM Policy Management:** add support for policy templates ([#194](https://github.com/IBM/platform-services-java-sdk/issues/194)) ([6f752c2](https://github.com/IBM/platform-services-java-sdk/commit/6f752c23fdb6535e4bb5abd109a12dfb587adaf2))
+
+## [0.39.1](https://github.com/IBM/platform-services-java-sdk/compare/0.39.0...0.39.1) (2023-09-05)
+
+
+### Bug Fixes
+
+* **IAM Access Groups:** remove update action control from assertions ([#208](https://github.com/IBM/platform-services-java-sdk/issues/208)) ([4f89f96](https://github.com/IBM/platform-services-java-sdk/commit/4f89f96ac794d14520b74635f3fd89ae057a5eb4))
+
+# [0.39.0](https://github.com/IBM/platform-services-java-sdk/compare/0.38.0...0.39.0) (2023-09-05)
+
+
+### Features
+
+* **IAM Identity:** add support for IAM enterprise ([#202](https://github.com/IBM/platform-services-java-sdk/issues/202)) ([55ccded](https://github.com/IBM/platform-services-java-sdk/commit/55ccded7f780499ad01f34a27838e482da565771))
+
 # [0.38.0](https://github.com/IBM/platform-services-java-sdk/compare/0.37.1...0.38.0) (2023-08-22)
 
 
